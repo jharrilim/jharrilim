@@ -1,6 +1,5 @@
 <div align="center">
-  <h3 align="center">👋 Hi there! I'm Joe.</h3>
-  <img src="https://media3.giphy.com/media/3ohs87hCLruTwBPddK/giphy.gif" alt="A waving tree" />
+  <img src="./ghheader.png" alt="Hi there, I'm Joe." />
 </div>
 
 ---

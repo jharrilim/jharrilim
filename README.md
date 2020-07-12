@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ghheader.png" alt="Hi there, I'm Joe." />
+  <img src="https://raw.githubusercontent.com/jharrilim/jharrilim/master/ghheader.png" alt="Hello there, I'm Joe." />
 </div>
 
 ---

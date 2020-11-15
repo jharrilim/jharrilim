@@ -10,3 +10,5 @@
 - 🤔 I’m looking for help with: [Multiplex](https://github.com/jharrilim/Multiplex) and [cybil](https://github.com/jharrilim/cybil)
 - 💬 Ask me about: [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react), or about [Node internals](https://github.com/nodejs/node)!
 - ⚡ Fun fact: Chuck Norris doesn't do pushups, he pushes the world down.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharrilim&hide=html,css&langs_count=10" />
